@@ -1,2 +1,2 @@
 # JuintTest
-个人税率Java自动化测试
+个人税率及其他类型Java自动化测试
